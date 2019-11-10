@@ -1,7 +1,7 @@
 # Stopwatch
 This is written in python3 by Manoj paramsetti.
 ## Discription
-A Stopwatch without pause which can be used in competition or events. Which will prevents from cheating
+A Stopwatch without pause option which can be used in competition or events. it will prevents from cheating
 ## Features
 Which have many features:
 > A one only stop watch without pause\

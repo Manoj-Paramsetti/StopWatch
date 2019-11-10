@@ -21,3 +21,8 @@ Which have many features:
  ## Contact me: 
  [@Themanojparamsetti](https://www.instagram.com/themanojparamsetti/) in Instagram 
 Mail to varasathyaman@gmail.com
+
+
+## upcoming
+
+Automated SQL Data entry through voice reconginition

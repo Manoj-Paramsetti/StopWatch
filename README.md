@@ -18,5 +18,5 @@ Which have many features:
   cd Stopwatch
   python3 Stopwatch.py
   ```
-  
-Contact me: [@Themanojparamsetti](https://www.instagram.com/themanojparamsetti/) in Instagram
+ ## Contact me: 
+ [@Themanojparamsetti](https://www.instagram.com/themanojparamsetti/) in Instagram 

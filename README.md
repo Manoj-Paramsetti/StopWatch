@@ -23,6 +23,6 @@ Which have many features:
 Mail to varasathyaman@gmail.com
 
 
-## upcoming
+## Upcoming
 
 Automated SQL Data entry through voice reconginition

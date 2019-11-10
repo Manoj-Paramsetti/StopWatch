@@ -19,8 +19,8 @@ Which have many features:
   python3 Stopwatch.py
   ```
  ## Contact me: 
- [@Themanojparamsetti](https://www.instagram.com/themanojparamsetti/) in Instagram 
-Mail to paramsetti.manoj@gmail.com
+ [@Themanojparamsetti](https://www.instagram.com/themanojparamsetti/) in Instagram
+ or Mail to paramsetti.manoj@gmail.com
 
 
 ## Upcoming

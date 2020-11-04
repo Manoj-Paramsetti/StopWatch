@@ -18,10 +18,6 @@ Which have many features:
   cd Stopwatch
   python3 Stopwatch.py
   ```
- ## Contact me: 
- [@Themanojparamsetti](https://www.instagram.com/themanojparamsetti/) in Instagram
- or Mail to paramsetti.manoj@gmail.com
-
 
 ## Upcoming
 

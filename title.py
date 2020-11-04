@@ -1,0 +1,11 @@
+def title():
+    print("              ||===============================||")
+    print("              || ppppppp  ww      ww  tttttttt ||")
+    print("              || pp   pp  ww      ww     tt    ||")
+    print("              || ppppppp  ww  ww  ww     tt    ||")
+    print("              || pp       wwww  wwww     tt    ||")
+    print("              || pp       ww      ww     tt    ||")
+    print("              ||===============================||")
+    print("              ||       Playing With Time       ||")
+    print("              || #Created by Paramsetti Manoj# ||")
+    print("              ||===============================||\n")

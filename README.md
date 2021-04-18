@@ -1,12 +1,11 @@
 # Stopwatch
-This is written in python3 by Manoj paramsetti.
-## Discription
-A Stopwatch without pause option which can be used in competition or events. it will prevents from cheating
+A Stopwatch without a pause option. It can be used in competitions or events with a time limit. it will try to prevent malpractice
+
 ## Features
 Which have many features:
-> A one only stop watch without pause\
-> Takes the data of the participant\
-> Lock the screen after completing to prevent malpractice
+- An only stopwatch without pause option
+- Takes the data of the participant and shows in the result
+- It locks the screen after completing the task, to prevent malpractice
 
 ## Requirements:
   - python3
@@ -14,11 +13,7 @@ Which have many features:
 
 ## How to use it
   > open cmd
-  ```
+  ```bash
   cd Stopwatch
   python3 Stopwatch.py
   ```
-
-## Upcoming
-
-Automated SQL Data entry through voice reconginition
